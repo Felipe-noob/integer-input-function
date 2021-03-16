@@ -11,6 +11,5 @@ int var;
   It works, but does not solve the problem entirerly. 1w098 is interpreted as 1, for instance.
   u/ShakaUVM made this good library that solves many of the problems associated with std::cin: https://github.com/ShakaUVM/read
   
-  My method here was providing a single function, without the need to add more libraries to your project. 
-
+  My method here was providing a single function, without the need to add more libraries to your project. You can adpat this to accept negative values too.
 
